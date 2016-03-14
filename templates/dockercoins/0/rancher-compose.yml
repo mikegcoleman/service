@@ -1,6 +1,6 @@
 .catalog:
-  name: "Alfresco"
-  version: "5.1.0"
-  description: "Alfresco Electronic Document Management"
-  uuid: alfresco-5.1.0-2
+  name: "Dockercoins"
+  version: "1.0"
+  description: "A real fake coin miner"
+  uuid: docker-1.0
   minimum_rancher_version: v0.56.0
