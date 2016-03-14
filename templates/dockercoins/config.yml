@@ -1,6 +1,6 @@
-name: Alfresco
+name: Dockercoins
 description: |
-  Slef hosted your EDM with Alfresco on few seconds.
+  A real fake coin mining demo. 
 version: 5.1.0
-category: EDM
+category: Demos
  
