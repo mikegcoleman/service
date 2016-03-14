@@ -1,6 +1,6 @@
 .catalog
-  name: Dockercoins
-  version: 1
-  description: A real fake coin miner
-  uuid: # dockercoins-0
-  
+  name: "Dockercoins"
+  version: "1"
+  description: "A real fake coin miner"
+  uuid: "dockercoins-0"
+  minimum_rancher_version: v0.46.0  
