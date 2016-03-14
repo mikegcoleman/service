@@ -2,4 +2,4 @@
   name: "Dockercoins"
   version: "1"
   description: "A real fake coin miner"
-   
+  uuid: dockercoins-0
