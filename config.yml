@@ -1,7 +1,5 @@
  name: Dockercoins
  description: A real fake coin miner
  version: 0
- category: dems
- maintainer: mike.coleman@docker.com
- license: Licensed to ill
- projectURL: https://github.com/mikegcoleman/service.git
+ category: demos
+ 
